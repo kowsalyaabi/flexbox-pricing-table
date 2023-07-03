@@ -1,2 +1,2 @@
 # flexbox-pricing-table
-created a pricing table webpage using flexbox
+A pricing table webpage using Html,css and Flexbox
